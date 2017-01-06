@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+}
+
+.window {
+  height: 100vh;
+  window: 100wh;
+}
+
+.left {
+  width: 33%;
+  height: 100vh;
+  background: #4a90e2;
+  float: left;
+}
+
+.center {
+  width: 33%;
+  height: 100vh;
+  background: #50e3c2;
+  float: left;
+}
+
+.right {
+  width: 33%;
+  height: 80vh;
+  background: #b8e986;
+  float: left;
+}
+
+.corner {
+  width: 33%;
+  height: 20vh;
+  background: #d0021b;
+  float: left;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+p {
+  margin-top: 20%;
+}
